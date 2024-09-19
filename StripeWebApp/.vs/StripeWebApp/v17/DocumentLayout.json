@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\ASP.NET\\StripeWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A961B86-9C9A-43BB-AD3F-F16261F0F665}|StripeWebApp\\StripeWebApp.csproj|d:\\asp.net\\stripewebapp\\stripewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A961B86-9C9A-43BB-AD3F-F16261F0F665}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A961B86-9C9A-43BB-AD3F-F16261F0F665}|StripeWebApp\\StripeWebApp.csproj|d:\\asp.net\\stripewebapp\\stripewebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A961B86-9C9A-43BB-AD3F-F16261F0F665}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A961B86-9C9A-43BB-AD3F-F16261F0F665}|StripeWebApp\\StripeWebApp.csproj|d:\\asp.net\\stripewebapp\\stripewebapp\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A961B86-9C9A-43BB-AD3F-F16261F0F665}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6A961B86-9C9A-43BB-AD3F-F16261F0F665}|StripeWebApp\\StripeWebApp.csproj|d:\\asp.net\\stripewebapp\\stripewebapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A961B86-9C9A-43BB-AD3F-F16261F0F665}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A961B86-9C9A-43BB-AD3F-F16261F0F665}|StripeWebApp\\StripeWebApp.csproj|d:\\asp.net\\stripewebapp\\stripewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6A961B86-9C9A-43BB-AD3F-F16261F0F665}|StripeWebApp\\StripeWebApp.csproj|solutionrelative:stripewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A961B86-9C9A-43BB-AD3F-F16261F0F665}|StripeWebApp\\StripeWebApp.csproj|d:\\asp.net\\stripewebapp\\stripewebapp\\data\\mvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +74,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StripeWebApp\\appsettings.Development.json",
+              "ToolTip": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\appsettings.Development.json",
+              "RelativeToolTip": "StripeWebApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T03:03:33.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "StripeWebApp\\wwwroot\\css\\site.css",
@@ -82,12 +99,11 @@
               "RelativeToolTip": "StripeWebApp\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-18T14:36:08.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T14:36:08.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "StripeWebApp\\Models\\ErrorViewModel.cs",
@@ -99,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "20240917170102_inital.cs",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\Migrations\\20240917170102_inital.cs",
               "RelativeDocumentMoniker": "StripeWebApp\\Migrations\\20240917170102_inital.cs",
@@ -111,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MvcContext.cs",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\Data\\MvcContext.cs",
               "RelativeDocumentMoniker": "StripeWebApp\\Data\\MvcContext.cs",
@@ -123,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "StripeWebApp.csproj",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\StripeWebApp.csproj",
               "RelativeDocumentMoniker": "StripeWebApp\\StripeWebApp.csproj",
@@ -135,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Item.cs",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\Models\\Item.cs",
               "RelativeDocumentMoniker": "StripeWebApp\\Models\\Item.cs",
@@ -147,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "StripeWebApp\\Views\\Home\\Privacy.cshtml",
@@ -159,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "StripeWebApp\\Views\\Home\\Index.cshtml",
@@ -171,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Cancel.cshtml",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Cancel.cshtml",
               "RelativeDocumentMoniker": "StripeWebApp\\Views\\Payment\\Cancel.cshtml",
@@ -183,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Success.cshtml",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Success.cshtml",
               "RelativeDocumentMoniker": "StripeWebApp\\Views\\Payment\\Success.cshtml",
@@ -195,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "StripeWebApp\\Controllers\\HomeController.cs",
@@ -207,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\Views\\Payment\\Index.cshtml",
               "RelativeDocumentMoniker": "StripeWebApp\\Views\\Payment\\Index.cshtml",
@@ -215,12 +231,11 @@
               "RelativeToolTip": "StripeWebApp\\Views\\Payment\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-16T17:17:26.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T17:17:26.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PaymentController.cs",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\Controllers\\PaymentController.cs",
               "RelativeDocumentMoniker": "StripeWebApp\\Controllers\\PaymentController.cs",
@@ -233,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\Program.cs",
               "RelativeDocumentMoniker": "StripeWebApp\\Program.cs",
@@ -245,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ASP.NET\\StripeWebApp\\StripeWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "StripeWebApp\\appsettings.json",
@@ -253,7 +268,8 @@
               "RelativeToolTip": "StripeWebApp\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-16T16:45:34.754Z"
+              "WhenOpened": "2024-09-16T16:45:34.754Z",
+              "EditorCaption": ""
             }
           ]
         }
