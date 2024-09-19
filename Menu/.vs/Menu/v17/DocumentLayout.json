@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\migrations\\20240730232258_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\migrations\\20240730232258_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\migrations\\20240802034634_inital migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\migrations\\20240802034634_inital migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\migrations\\menucontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\migrations\\menucontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\controllers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\controllers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\menu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\menu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|d:\\asp.net\\menu\\menu\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2500352B-3DE2-4D1B-85D3-DB08CE0BE3E1}|Menu\\Menu.csproj|solutionrelative:menu\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T09:28:17.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240802034634_Inital migration.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Migrations\\20240802034634_Inital migration.cs",
+              "RelativeDocumentMoniker": "Menu\\Migrations\\20240802034634_Inital migration.cs",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Migrations\\20240802034634_Inital migration.cs",
+              "RelativeToolTip": "Menu\\Migrations\\20240802034634_Inital migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:46:34.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Views\\Menu\\Details.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Menu\\Details.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Views\\Menu\\Details.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Menu\\Details.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAABBwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T16:10:24.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T14:12:30.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Migrations\\MenuContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Menu\\Migrations\\MenuContextModelSnapshot.cs",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Migrations\\MenuContextModelSnapshot.cs",
+              "RelativeToolTip": "Menu\\Migrations\\MenuContextModelSnapshot.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:11:01.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Controllers\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu\\Controllers\\Menu.cs",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Controllers\\Menu.cs",
+              "RelativeToolTip": "Menu\\Controllers\\Menu.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBQwBYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:09:22.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240730232258_Initial migration.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Migrations\\20240730232258_Initial migration.cs",
+              "RelativeDocumentMoniker": "Menu\\Migrations\\20240730232258_Initial migration.cs",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Migrations\\20240730232258_Initial migration.cs",
+              "RelativeToolTip": "Menu\\Migrations\\20240730232258_Initial migration.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:22:58.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Data\\MenuContext.cs",
+              "RelativeDocumentMoniker": "Menu\\Data\\MenuContext.cs",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Data\\MenuContext.cs",
+              "RelativeToolTip": "Menu\\Data\\MenuContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:49:52.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Menu.csproj",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Menu.csproj",
+              "RelativeDocumentMoniker": "Menu\\Menu.csproj",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Menu.csproj",
+              "RelativeToolTip": "Menu\\Menu.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T08:49:00.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Menu\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Menu\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-25T16:31:10.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\appsettings.json",
+              "RelativeDocumentMoniker": "Menu\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\appsettings.json",
+              "RelativeToolTip": "Menu\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T16:29:44.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Program.cs",
+              "RelativeDocumentMoniker": "Menu\\Program.cs",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Program.cs",
+              "RelativeToolTip": "Menu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:28:00.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T16:28:42.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Menu\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T16:28:37.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Menu\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T16:28:34.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Menu\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Menu\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T16:28:30.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Menu\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Menu\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:27:49.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\Ingredient.cs",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Models\\Ingredient.cs",
+              "RelativeToolTip": "Menu\\Models\\Ingredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:18:20.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DishIngredient.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Models\\DishIngredient.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\DishIngredient.cs",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Models\\DishIngredient.cs",
+              "RelativeToolTip": "Menu\\Models\\DishIngredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:17:40.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\Dish.cs",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Models\\Dish.cs",
+              "RelativeToolTip": "Menu\\Models\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:15:13.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Menu\\Menu\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Menu\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ASP.NET\\Menu\\Menu\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Menu\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:14:33.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
