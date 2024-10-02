@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkyWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+255bdd673fd2e19872400fac4759b52ba43442c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ade63b21a0ee6af8659ac006c24f75b34a8dbe26")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkyWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkyWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
