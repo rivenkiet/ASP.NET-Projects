@@ -252,3 +252,16 @@ D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win
 D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\ASP.NET\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\BuilkyWebRazor_Temp.deps.json
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\BuilkyWebRazor_Temp.runtimeconfig.json
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\BuilkyWebRazor_Temp.staticwebassets.runtime.json
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\BuilkyWebRazor_Temp.exe
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\BuilkyWebRazor_Temp.dll
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.dll
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.dll
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.dll
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.pdb
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.pdb
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\BuilkyWebRazor_Temp.pdb
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.pdb
