@@ -31,8 +31,9 @@ namespace Bulky.DataAccess.Data
                     Price = 200,
                     Price50 = 180,
                     Price100 = 150,
-                    CategoryId = 1
-                },
+                    CategoryId = 1,
+					ImageUrl = ""
+				},
                 new Product { Id = 2,
                     Title = "Honkai Impact",
                     Description = "wibu time",
@@ -42,7 +43,8 @@ namespace Bulky.DataAccess.Data
                     Price = 200,
                     Price50 = 180,
                     Price100 = 150,
-					CategoryId = 1
+					CategoryId = 1,
+					ImageUrl = ""
 				},
                 new Product { Id = 3,
                     Title = "Honkai SR", 
@@ -53,7 +55,8 @@ namespace Bulky.DataAccess.Data
                     Price = 300,
                     Price50 = 280,
                     Price100 = 250,
-					CategoryId = 2
+					CategoryId = 2,
+					ImageUrl = ""
 				},
                 new Product { Id = 4, 
                     Title = "Dark Soul", 
@@ -64,7 +67,8 @@ namespace Bulky.DataAccess.Data
                     Price = 1000,
                     Price50 = 500,
                     Price100 = 300,
-					CategoryId = 3
+					CategoryId = 3,
+					ImageUrl = ""
 				}
                 );
         }
