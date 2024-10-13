@@ -10,3 +10,6 @@ D:\ASP.NET\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
 D:\ASP.NET\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
 D:\ASP.NET\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
 D:\ASP.NET\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+D:\ASP.NET\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.runtimeconfig.json
+D:\ASP.NET\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
+D:\ASP.NET\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.genruntimeconfig.cache

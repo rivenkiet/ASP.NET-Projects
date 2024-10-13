@@ -267,3 +267,5 @@ D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.pdb
 D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ASP.NET\Bulky\BulkyWeb\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
