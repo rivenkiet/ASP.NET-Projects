@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WdLRLOxQUBNtykKM0ptbv3Q271p5ulXvd4PpOEMT/nM=",
+  "Hash": "xGJD0AS9EaHvFfbD6jIM3dc4cvLIaW82JCSCOkFG450=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1269,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\eb52bd17-953f-49af-a7da-a6e3ee0a006c.png",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/product/eb52bd17-953f-49af-a7da-a6e3ee0a006c.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\eb52bd17-953f-49af-a7da-a6e3ee0a006c.png"
     },
     {
       "Identity": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",

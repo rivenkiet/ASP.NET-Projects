@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\eb52bd17-953f-49af-a7da-a6e3ee0a006c.png",
+      "PackagePath": "staticwebassets\\images\\product\\eb52bd17-953f-49af-a7da-a6e3ee0a006c.png"
+    },
+    {
       "Id": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
