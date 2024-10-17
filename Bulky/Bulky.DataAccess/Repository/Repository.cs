@@ -28,7 +28,7 @@ namespace Bulky.DataAccess.Repository
         public T Get(Expression<Func<T, bool>> filter, string? includeProperties = null)
         {
             IQueryable<T> query = dbSet;
-			query = query.Where(filter);
+			
 			if (!string.IsNullOrEmpty(includeProperties))
 			{
 				foreach (var property in includeProperties
@@ -37,7 +37,8 @@ namespace Bulky.DataAccess.Repository
 					query = dbSet.Include(property);
 				}
 			}
-			return query.FirstOrDefault();
+            query = query.Where(filter);
+            return query.FirstOrDefault();
         }
 
         public IEnumerable<T> GetAll(string? includeProperties = null)

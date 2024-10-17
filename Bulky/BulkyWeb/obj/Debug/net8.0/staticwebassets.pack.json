@@ -13,8 +13,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\c19034dc-43c2-4e77-99dd-34fbc7e12656.png",
-      "PackagePath": "staticwebassets\\images\\product\\c19034dc-43c2-4e77-99dd-34fbc7e12656.png"
+      "Id": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\0ca4b3ae-8398-4491-85e4-fd5e687c07fb.png",
+      "PackagePath": "staticwebassets\\images\\product\\0ca4b3ae-8398-4491-85e4-fd5e687c07fb.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\77556f3b-beb7-41c9-99c0-16869848fecb.png",
+      "PackagePath": "staticwebassets\\images\\product\\77556f3b-beb7-41c9-99c0-16869848fecb.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\a7a808db-ca6f-4dc7-a6b6-1e34f8e27da4.png",
+      "PackagePath": "staticwebassets\\images\\product\\a7a808db-ca6f-4dc7-a6b6-1e34f8e27da4.png"
     },
     {
       "Id": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
