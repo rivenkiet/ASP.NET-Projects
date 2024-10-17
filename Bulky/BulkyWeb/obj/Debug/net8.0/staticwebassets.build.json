@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xGJD0AS9EaHvFfbD6jIM3dc4cvLIaW82JCSCOkFG450=",
+  "Hash": "i/sOsW7/3Fu25DDZdEcaGc1B48U8uhpc6BOqPpILM/w=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1271,12 +1271,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\eb52bd17-953f-49af-a7da-a6e3ee0a006c.png",
+      "Identity": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\c19034dc-43c2-4e77-99dd-34fbc7e12656.png",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/product/eb52bd17-953f-49af-a7da-a6e3ee0a006c.png",
+      "RelativePath": "images/product/c19034dc-43c2-4e77-99dd-34fbc7e12656.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1287,7 +1287,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\eb52bd17-953f-49af-a7da-a6e3ee0a006c.png"
+      "OriginalItemSpec": "wwwroot\\images\\product\\c19034dc-43c2-4e77-99dd-34fbc7e12656.png"
+    },
+    {
+      "Identity": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/product.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
       "Identity": "D:\\ASP.NET\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",

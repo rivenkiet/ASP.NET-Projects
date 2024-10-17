@@ -11,7 +11,7 @@
 			</a>
 		</div>
 	</div>
-	<table class="table table-bordered table-striped">
+	<table id="tblTable" class="table table-bordered table-striped">
 		<thead>
 			<tr>
 				<th>
@@ -49,14 +49,14 @@
 						@item.ListPrice
 					</td>
 					<td>
-						@item.CategoryId
+						@item.Category.Name
 					</td>
 					<td>
 						<div class="w-75 btn-group" role="group">
 							<a asp-area="Admin" asp-controller="Product" asp-action="Upsert" asp-route-id="@item.Id" class="btn btn-primary mx-2">
 								<i class="bi bi-pencil"></i> Edit
 							</a>
-							<a asp-area="Admin" asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger mx-2">
+							<a href="/admin/product/delete/@item.Id" class="btn btn-danger mx-2">
 								<i class="bi bi-trash3"></i> Delete
 							</a>
 						</div>
@@ -64,6 +64,9 @@
 				</tr>
 			}
 		</tbody>
-
 	</table>
 </div>
+
+@section Scripts{
+	<script src="~/js/product.js"></script>
+}
