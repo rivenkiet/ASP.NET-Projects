@@ -801,11 +801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NET\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectUniqueName": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
       "projectName": "Bulky.Utility",
-      "projectPath": "D:\\ASP.NET\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectPath": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.NET\\Bulky\\Bulky.Utility\\obj\\",
+      "outputPath": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,3 +11,16 @@ D:\ASP.NET\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
 D:\ASP.NET\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
 D:\ASP.NET\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
 D:\ASP.NET\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+D:\Study\ProjectC#\ASP.NET-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll

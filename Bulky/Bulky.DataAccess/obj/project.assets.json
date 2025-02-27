@@ -9973,11 +9973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NET\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectUniqueName": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "projectName": "Bulky.DataAccess",
-      "projectPath": "D:\\ASP.NET\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectPath": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.NET\\Bulky\\Bulky.DataAccess\\obj\\",
+      "outputPath": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\Bulky.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9995,11 +9995,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ASP.NET\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-              "projectPath": "D:\\ASP.NET\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+            "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+              "projectPath": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
             },
-            "D:\\ASP.NET\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
-              "projectPath": "D:\\ASP.NET\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
+            "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
+              "projectPath": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
             }
           }
         }
