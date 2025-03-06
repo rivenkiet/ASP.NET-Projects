@@ -17,12 +17,16 @@
       "PackagePath": "staticwebassets\\images\\product\\0ca4b3ae-8398-4491-85e4-fd5e687c07fb.png"
     },
     {
-      "Id": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\77556f3b-beb7-41c9-99c0-16869848fecb.png",
-      "PackagePath": "staticwebassets\\images\\product\\77556f3b-beb7-41c9-99c0-16869848fecb.png"
+      "Id": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\92d75d3c-8d99-4f1d-bd73-75ead21f12ff.png",
+      "PackagePath": "staticwebassets\\images\\product\\92d75d3c-8d99-4f1d-bd73-75ead21f12ff.png"
     },
     {
-      "Id": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\a7a808db-ca6f-4dc7-a6b6-1e34f8e27da4.png",
-      "PackagePath": "staticwebassets\\images\\product\\a7a808db-ca6f-4dc7-a6b6-1e34f8e27da4.png"
+      "Id": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\a36629fd-a9c4-444a-b5e8-3bd9e9e9b003.png",
+      "PackagePath": "staticwebassets\\images\\product\\a36629fd-a9c4-444a-b5e8-3bd9e9e9b003.png"
+    },
+    {
+      "Id": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
     },
     {
       "Id": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",

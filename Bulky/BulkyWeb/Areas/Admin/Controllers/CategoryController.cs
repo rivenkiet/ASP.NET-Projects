@@ -4,8 +4,11 @@ using Bulky.DataAccess.Repository.IRepository;
 using Bulky.Models;
 using Bulky.Utility;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
+
 
 namespace BulkyWeb.Areas.Admin.Controllers
 {
@@ -14,9 +17,11 @@ namespace BulkyWeb.Areas.Admin.Controllers
     public class CategoryController : Controller
     {
         private IUnitOfWork _unitOfWork;
-        public CategoryController(IUnitOfWork unitOfWork)
+        private readonly IWebHostEnvironment _webHostEnvironment;
+        public CategoryController(IUnitOfWork unitOfWork, IWebHostEnvironment webHostEnvironment)
         {
             _unitOfWork = unitOfWork;
+            _webHostEnvironment = webHostEnvironment;
         }
         public IActionResult Index()
         {
@@ -75,15 +80,15 @@ namespace BulkyWeb.Areas.Admin.Controllers
 
         }
 
-        public IActionResult Delete(int? id)
+        /*public IActionResult Delete(int? id)
         {
             if (id == null || id == 0)
             {
                 return NotFound();
             }
             Category? categoryFromDb = _unitOfWork.Category.Get(u => u.Id == id);
-            /*Category? categoryFromDb1 = _db.categories.FirstOrDefault(u => u.Id == id);
-			Category? categoryFromDb2 = _db.categories.Where(u => u.Id == id).FirstOrDefault();*/
+            *//*Category? categoryFromDb1 = _db.categories.FirstOrDefault(u => u.Id == id);
+			Category? categoryFromDb2 = _db.categories.Where(u => u.Id == id).FirstOrDefault();*//*
             if (categoryFromDb == null)
             {
                 return NotFound();
@@ -103,6 +108,48 @@ namespace BulkyWeb.Areas.Admin.Controllers
             TempData["success"] = "Category deleted successfully";
             return RedirectToAction("Index");
         }
+*/
+        #region API CALLS
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            List<Category> categories = _unitOfWork.Category.GetAll().ToList();
+            return Json(new { data = categories });
+        }
+        [HttpDelete]
+        public IActionResult Delete(int ?id)
+        {
+            var categoryToDeleted = _unitOfWork.Category.Get(u => u.Id == id);
+            if (categoryToDeleted == null)
+            {
+                return Json(new { success = false, message = "Error while deleting" });
+            }
 
+            List<Product> products = _unitOfWork.Product.GetAll(includeProperties: "Category").Where(u => u.CategoryId == id).ToList();
+            products.ForEach(productToDeleted =>
+            {
+                if (productToDeleted == null)
+                {
+                    
+                    return;
+                }
+                var oldImagePath = Path.Combine(_webHostEnvironment.WebRootPath,
+                                    productToDeleted.ImageUrl.TrimStart('\\'));
+                if (System.IO.File.Exists(oldImagePath))
+                {
+                    System.IO.File.Delete(oldImagePath);
+                }
+                _unitOfWork.Product.Remove(productToDeleted);
+                _unitOfWork.Save();
+                TempData["success"] = "Product deleted successfully";
+            });
+            _unitOfWork.Category.Remove(categoryToDeleted);
+            _unitOfWork.Save();
+            List<Category> categories = _unitOfWork.Category.GetAll().ToList();
+            return Json(new { success = true, message = "Delete successful" });
+        }
+        #endregion
     }
 }
+
+        

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8p2Vu/NvmWxQnmndaSFpTCc7eYULaZo/21uBDlwNytA=",
+  "Hash": "k2wmJYPL1TguTvK4nw/FDADc/pcBlQCzGaYKpf7Jyro=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1252,12 +1252,12 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\0ca4b3ae-8398-4491-85e4-fd5e687c07fb.png"
     },
     {
-      "Identity": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\77556f3b-beb7-41c9-99c0-16869848fecb.png",
+      "Identity": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\92d75d3c-8d99-4f1d-bd73-75ead21f12ff.png",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/product/77556f3b-beb7-41c9-99c0-16869848fecb.png",
+      "RelativePath": "images/product/92d75d3c-8d99-4f1d-bd73-75ead21f12ff.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1268,15 +1268,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\77556f3b-beb7-41c9-99c0-16869848fecb.png"
+      "OriginalItemSpec": "wwwroot\\images\\product\\92d75d3c-8d99-4f1d-bd73-75ead21f12ff.png"
     },
     {
-      "Identity": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\a7a808db-ca6f-4dc7-a6b6-1e34f8e27da4.png",
+      "Identity": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\a36629fd-a9c4-444a-b5e8-3bd9e9e9b003.png",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/product/a7a808db-ca6f-4dc7-a6b6-1e34f8e27da4.png",
+      "RelativePath": "images/product/a36629fd-a9c4-444a-b5e8-3bd9e9e9b003.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1287,7 +1287,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\a7a808db-ca6f-4dc7-a6b6-1e34f8e27da4.png"
+      "OriginalItemSpec": "wwwroot\\images\\product\\a36629fd-a9c4-444a-b5e8-3bd9e9e9b003.png"
+    },
+    {
+      "Identity": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "D:\\Study\\ProjectC#\\ASP.NET-Projects\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",

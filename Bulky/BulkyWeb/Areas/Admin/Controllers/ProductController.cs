@@ -23,8 +23,9 @@ namespace BulkyWeb.Areas.Admin.Controllers
         }
         public IActionResult Index()
         {
-            List<Product> products = _unitOfWork.Product.GetAll(includeProperties:"Category").ToList();
-            return View(products);
+			//List<Product> products = _unitOfWork.Product.GetAll(includeProperties:"Category").ToList();
+			//return View(products);
+			return View();
         }
 
 		
@@ -80,7 +81,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
 					}
 					productVM.Product.ImageUrl = @"\images\product\" + fileName;
 				}
-				else if(productVM.Product.Id == 0 && file == null)
+				else if(productVM.Product.Id == 0 && file == null) // Truong hop update khong thay hinh
 				{
 					productVM.Product.ImageUrl = "";
 				}
@@ -126,6 +127,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
 			return Json(new { data = products });
         }
 		#endregion
+		[HttpDelete]
 		public IActionResult Delete(int? id)
 		{
 			var productToDeleted = _unitOfWork.Product.Get(u => u.Id == id);
@@ -140,7 +142,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
 			}
 			_unitOfWork.Product.Remove(productToDeleted);
 			_unitOfWork.Save();
-			List<Product> products = _unitOfWork.Product.GetAll(includeProperties: "Category").ToList();
+			//List<Product> products = _unitOfWork.Product.GetAll(includeProperties: "Category").ToList();
 			return Json(new { success = true, message = "Delete successful" });
 		}
     }
