@@ -70,7 +70,7 @@ namespace BulkyWeb.Areas.Customer.Controllers
                 cartFromDb.Count += cart.Count;
                 _unitOfWork.ShoppingCart.Update(cartFromDb);
             }
-            TempData["success"] = "Add Cart Succesfully"
+            TempData["success"] = "Add Cart Succesfully";
             _unitOfWork.Save();
 
 

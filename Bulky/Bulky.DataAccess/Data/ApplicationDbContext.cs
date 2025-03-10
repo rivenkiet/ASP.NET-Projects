@@ -14,9 +14,11 @@ namespace Bulky.DataAccess.Data
 
         public DbSet<Category> categories { get; set; }
         public DbSet<Product> products { get; set; }
-        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+        public DbSet<ApplicationUser> applicationUsers { get; set; }
         public DbSet<Company> companies { get; set; }
         public DbSet<ShoppingCart> shoppingCarts { get; set; }
+        public DbSet<OrderHeader> orderHeaders { get; set; }
+        public DbSet<OrderDetail> orderDetails { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -24,7 +26,8 @@ namespace Bulky.DataAccess.Data
             modelBuilder.Entity<Category>().HasData(
                 new Category { Id = 1, Name = "Science", DisplayOrder = 1 },
                 new Category { Id = 2, Name = "Action", DisplayOrder = 2 },
-                new Category { Id = 3, Name = "History", DisplayOrder = 3 }
+                new Category { Id = 3, Name = "History", DisplayOrder = 3 },
+                new Category { Id = 4, Name = "Sci-fi", DisplayOrder = 5 }
                 );
             modelBuilder.Entity<Product>().HasData(
                 new Product {
